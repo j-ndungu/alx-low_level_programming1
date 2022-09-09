@@ -3,6 +3,7 @@
  *main - Program prints all single digit numbers
  * of base 10 stating from 0
  *followed by a newline
+ *Return: 0 (Successful)
  */
 
 int main(void)
